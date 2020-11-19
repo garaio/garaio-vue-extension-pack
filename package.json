@@ -1,0 +1,51 @@
+{
+    "name": "garaio-vue-extension-pack",
+    "displayName": "GARAIO Vue Extension Pack",
+    "description": "VS Code extensions for Vue.js development",
+    "publisher": "GARAIOAG",
+    "repository": {"url": "https://github.com/garaio/garaio-vue-extension-pack"},
+    "author": {
+        "email": "fabian.gander@garaio.com",
+        "name": "Fabian Gander"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "icon": "vuejs-icon.png",
+    "keywords": [
+        "vue",
+        "node",
+        "javascript",
+        "typescript",
+        "garaio"
+    ],
+    "extensionPack": [
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "cmstead.jsrefactor",
+        "cssho.vscode-svgviewer",
+        "davidanson.vscode-markdownlint",
+        "dbaeumer.vscode-eslint",
+        "eg2.vscode-npm-script",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "kontrail.vscode-inline-svg",
+        "mervin.markdown-formatter",
+        "mikestead.dotenv",
+        "ms-vscode.powershell",
+        "msjsdiag.debugger-for-chrome",
+        "octref.vetur",
+        "orta.vscode-jest",
+        "sdras.vue-vscode-snippets",
+        "tlent.jest-snapshot-language-support",
+        "vscode-icons-team.vscode-icons",
+        "vuetifyjs.vuetify-vscode",
+        "zhyong10.markdown-html",
+        "zignd.html-css-class-completion"
+    ]
+}

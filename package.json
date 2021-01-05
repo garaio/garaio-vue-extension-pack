@@ -8,14 +8,14 @@
         "email": "fabian.gander@garaio.com",
         "name": "Fabian Gander"
     },
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.51.0"
     },
     "categories": [
         "Extension Packs"
     ],
-    "icon": "vuejs-icon.png",
+    "icon": "garaio-vue-icon.png",
     "keywords": [
         "vue",
         "node",

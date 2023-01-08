@@ -8,7 +8,7 @@
         "email": "fabian.gander@garaio.com",
         "name": "Fabian Gander"
     },
-    "version": "0.1.0",
+    "version": "0.2.0",
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -27,10 +27,8 @@
         "christian-kohler.npm-intellisense",
         "christian-kohler.path-intellisense",
         "cmstead.jsrefactor",
-        "cssho.vscode-svgviewer",
         "davidanson.vscode-markdownlint",
         "dbaeumer.vscode-eslint",
-        "eg2.vscode-npm-script",
         "esbenp.prettier-vscode",
         "formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag",
@@ -38,10 +36,11 @@
         "mervin.markdown-formatter",
         "mikestead.dotenv",
         "ms-vscode.powershell",
-        "msjsdiag.debugger-for-chrome",
         "octref.vetur",
         "orta.vscode-jest",
         "sdras.vue-vscode-snippets",
+        "simonsiefke.svg-preview",
+        "steoates.autoimport",
         "tlent.jest-snapshot-language-support",
         "vscode-icons-team.vscode-icons",
         "vuetifyjs.vuetify-vscode",

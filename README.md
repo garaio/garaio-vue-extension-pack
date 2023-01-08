@@ -1,6 +1,6 @@
 # GARAIO Vue.js Extension Pack
 
-This extension pack provides a collection of extensions for Vue.js development using Typescript.
+This extension pack provides a collection of extensions for Vue.js (v2) development using Typescript.
 
 ## Vue Base setup
 
